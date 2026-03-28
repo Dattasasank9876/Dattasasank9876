@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# 💫 About Me:
+🔭 I’m currently working on AMBA APB protocol verification using SystemVerilog & UVM as part of my training<br>👯 I’m looking to collaborate on open-source verification projects (UVM/testbench development)<br>🤝 I’m looking for help with improving debugging skills and writing timing-accurate SystemVerilog assertions<br>🌱 I’m currently learning how real-world verification environments are built and used in industry<br>💬 Ask me about UVM basics, UART verification, and building scoreboard-based testbenches<br>⚡ Fun fact: I enjoy debugging and analyzing coverage more than writing testcases<br>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Dattasasank9876/Dattasasank9876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
